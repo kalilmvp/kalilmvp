@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kalil Peixoto!</h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<p><em>IT Consultant at <a href="https://www.jupiter.co.ao/en" target="_blank">Jupiter Systems and Solutions</a></em></p>
+<p><em>IT Consultant at <a href="https://www.jupiter.co.ao/en" target="blank">Jupiter Systems and Solutions</a></em></p>
 
 [![Linkedin: kalilpeixoto](https://img.shields.io/badge/-kalilpeixoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalilpeixoto/)](https://www.linkedin.com/in/kalilpeixoto/)
 
