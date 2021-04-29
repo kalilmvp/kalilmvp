@@ -30,6 +30,16 @@ My main goal is to perform at my best when developing the various solutions as F
 
 <br />
 
+
+**Hobbies:** 
+
+- Travel and meeting new cultures ✈️
+- Reading 📚
+- Watching shows and movies 🍿
+- Hanging out with friends 👥
+
+<br />
+
 <details>
   <summary>📈 My GitHub Stats</summary>
 
