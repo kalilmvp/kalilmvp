@@ -34,6 +34,7 @@ My main goal is to perform at my best when developing the various solutions as F
 **Hobbies:** 
 
 - Travel and meeting new cultures ✈️
+- Study to get better at new technologies, best practices and leadership
 - Reading 📚
 - Watching shows and movies 🍿
 - Hanging out with friends 👥
